@@ -9,6 +9,3 @@ class MyString(str):
 
 string= MyString('Yago')
 print(string.upper())
-
-print('teste')
-print('teste2')
