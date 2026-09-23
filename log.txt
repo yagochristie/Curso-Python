@@ -1,0 +1,7 @@
+Succes: aaaaaaaaaaaaaaa(LogFileMixin)
+Error: Oooooooooooola(LogFileMixin)
+Succes: aaaaaaaaaaaaaaa(LogFileMixin)
+Error: Oooooooooooola(LogFileMixin)
+Succes: aaaaaaaaaaaaaaa(LogFileMixin)
+Succes: iphone esta ligado(Smartphone)
+Error: galaxi esta desligado(Smartphone)
